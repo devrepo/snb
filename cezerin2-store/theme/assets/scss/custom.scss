@@ -1,0 +1,24 @@
+.continue-shopping-button {
+    // still empty
+}
+
+.success-alert-text {
+    color: $green;
+}
+
+.warning-alert-text {
+    color: $error-alert-text;
+}
+
+.error-alert-text {
+    color: $error-alert-text;
+}
+
+.image-container {
+    border: 1px solid #000;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.columns-override {
+    display: flex;
+}
