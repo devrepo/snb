@@ -1,0 +1,6 @@
+*.code-workspace
+build
+dist
+node-modules
+snbdata/*
+docs/*
