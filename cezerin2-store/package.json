@@ -88,7 +88,7 @@
     "stripe": "^8.39.1",
     "theme": "file:theme",
     "typescript": "^3.9.2",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.24",
     "winston": "^3.2.1"
   },
   "devDependencies": {
