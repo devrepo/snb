@@ -74,7 +74,7 @@
     "slug": "^2.1.1",
     "stripe": "^8.39.0",
     "typescript": "^3.9.2",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.24",
     "workbox-webpack-plugin": "^5.1.2",
     "ws": "^7.2.3"
   },
