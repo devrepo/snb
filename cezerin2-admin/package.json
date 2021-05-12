@@ -43,7 +43,7 @@
     "@material-ui/pickers": "^3.2.10",
     "body-parser": "^1.19.0",
     "cezerin2-client": "^0.36.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "esm": "^3.2.25",
     "handlebars": "^4.7.6",
     "husky": "^4.2.3",
